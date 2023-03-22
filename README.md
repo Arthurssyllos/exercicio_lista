@@ -1,0 +1,2 @@
+# exercicio_lista
+exercicios_da_lista_22_03
